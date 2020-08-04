@@ -3,13 +3,13 @@ Hello world, welcome!
 ======================      
       SOBRE MIM:
 ======================
-
-Por que escolhi a área de programação?
-
 * Eu amo "dar vida" as coisas, e a programação me permiti fazer isso.
 * Sou um estudante de programação, quero trabalhar com Games e Front-End
 
-Fazendo atualmente:
+Estudando atualmente:
+* Python(Intermediário)
+
+Trabalho atual:
 * Faço o ensino médio/técnico onde estou concluindo o curso de programação de jogos digitais
 * Hoje com 18 anos já produzir alguns jogos independentes (Indie Game) onde pode ser encontrados na minha pagina no itch.io - [MK.JOGOS](https://mkjogos.itch.io/)
 * Estou estudando sempre sobre programação e buscando aprender algo a cada dia, para chegar aos meus objetivos.
@@ -28,7 +28,6 @@ TECNOLOGIAS QUE PRETENDO APRENDER:
 * HTML e CSS
 * JavaScript
 * PHP
-* Django 
 
 MEUS CONTATOS:
 * [INSTAGRAM](https://www.instagram.com/matheus_klebson/) 
