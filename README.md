@@ -2,7 +2,7 @@
 Hello world, welcome!
 ======================      
       SOBRE MIM:
-======================
+=================================================================
 * Eu amo "dar vida" as coisas, e a programação me permiti fazer isso.
 * Sou um estudante de programação, quero trabalhar com Games e Front-End
 
