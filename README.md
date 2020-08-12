@@ -29,6 +29,11 @@ TECNOLOGIAS QUE PRETENDO APRENDER:
 * JavaScript
 * PHP
 
+IDIOMAS:
+
+* Libras(Intermediário)
+* Inglês(Estudando)
+
 MEUS CONTATOS:
 * [INSTAGRAM](https://www.instagram.com/matheus_klebson/) 
 * [INSTAGRAM PROFISSIONAL DE CRIAÇÃO DE JOGOS](https://www.instagram.com/mk.jogos/)
