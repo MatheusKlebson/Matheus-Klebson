@@ -7,7 +7,8 @@ Hello world, welcome!
 * Sou um estudante de programação, quero trabalhar com Games e Front-End
 
 Estudando atualmente:
-* Python(Intermediário)
+* EXCEL
+* Colocando em prática a linguagem Python em projetos próprios
 
 Trabalho atual:
 * Faço o ensino médio/técnico onde estou concluindo o curso de programação de jogos digitais
@@ -28,10 +29,13 @@ TECNOLOGIAS QUE PRETENDO APRENDER:
 * HTML e CSS
 * JavaScript
 * PHP
+* JAVA
+* SQL
+* EXCEL
 
 IDIOMAS:
 
-* Libras(Intermediário)
+* Libras
 * Inglês(Estudando)
 
 MEUS CONTATOS:
